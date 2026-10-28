@@ -24,6 +24,7 @@ requirements:
     - dask
     - h5netcdf
     - lxml
+    - matplotlib-base
     - numba
     - python-dotenv
     - toml
