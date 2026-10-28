@@ -27,6 +27,7 @@ requirements:
     - matplotlib-base
     - numba
     - python-dotenv
+    - scipy
     - toml
     - tqdm
     - xarray
