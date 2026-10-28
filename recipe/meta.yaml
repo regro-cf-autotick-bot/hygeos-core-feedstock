@@ -16,11 +16,11 @@ build:
 
 requirements:
   host:
-    - python {{ python_min }},<3.14
+    - python {{ python_min }}
     - pip
     - poetry-core >=1
   run:
-    - python >={{ python_min }},<3.14
+    - python >={{ python_min }}
     - dask
     - h5netcdf
     - lxml
